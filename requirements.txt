@@ -1,0 +1,7 @@
+gradio 
+llama-index-llms-ollama 
+llama-index-tools-mcp 
+ollama 
+mcp 
+nest_asyncio 
+llama-index
